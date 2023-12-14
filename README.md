@@ -1,10 +1,10 @@
 # Relyon
 
-Está disponível o Relyon, uma interface standalone gratuita construída em Matlab para otimização de modelos multivariados utilizando regressão PLS. A interface foi construída pelo Wilson Cardoso e Jussara Roque no MCDALab sob a supervisão do Prof. Reinaldo Teófilo.
-A interface importa arquivos .mat ou .xlsx, realiza otimização de pré-processamentos automaticamente, possui opção de dividir os dados em conjuntos de treinamento e teste automaticamente, seleciona variáveis usando o método OPS, constrói modelos de calibração PLS e realiza predição de novas amostras. 
-A interface possui 21 pré-processamentos a serem executados individualmente e em combinação. Os resultados são salvos em uma planilha do excel, onde o usuário pode decidir qual é a melhor estratégia. Para a seleção dos preditores ordenados (OPS), quatro métodos estão disponíveis (AutoOPS, FeedOPS, AutoiOPS e FeediOPS). Os parâmetros dos modelos são apresentados em uma tabela na interface onde o usuário pode selecionar o melhor modelo e salvar no formato .dat, o qual pode então ser utilizado posteriormente para predições de novas amostras. O usuário também pode salvar arquivos .xlsx com os dados desejados para criação de gráficos, assim como os parâmetros dos modelos e as variáveis selecionadas.
+Relyon is a free standalone interface built in Matlab for the optimization of multivariate models using PLS regression. The interface was developed by Wilson Cardoso and Jussara Roque at MCDALab under the supervision of Prof. Reinaldo Teófilo. The interface is capable of importing .mat or .xlsx files, automatically optimizing preprocessing steps, providing the option to automatically split data into training and testing sets, selecting variables using the OPS method, building PLS calibration models, and making predictions for new unknown samples.
 
-Relyon é uma software completo para criação e otimização de modelos PLS. 
+The interface offers 21 preprocessing options that can be executed individually or in combination. The results are saved in an Excel spreadsheet, allowing the user to decide on the best strategy. For the selection of ordered predictors (OPS), four methods are available (AutoOPS, FeedOPS, AutoiOPS, and FeediOPS). Model parameters are presented in a table within the interface, where the user can choose the best model and save it in .dat format for later use in predicting new samples.
+
+The user also has the ability to save .xlsx files with desired data for creating graphs, as well as saving model parameters and selected variables. Relyon is a comprehensive software for the creation and optimization of PLS models.
 
 To download the preprocessing optimizer (Relyon) go to the link below:
 
