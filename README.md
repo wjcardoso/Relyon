@@ -8,4 +8,4 @@ The user also has the ability to save .xlsx files with desired data for creating
 
 [CLICK HERE TO BE NOTIFIED ABOUT UPDATES](https://forms.gle/96bNaLX6or5DcZpj6)
 
-[CLICK HERE TO DOWNLOAD RELYON](https://forms.gle/96bNaLX6or5DcZpj6](https://drive.google.com/drive/folders/1GZJdrvaXulmGhjJr_M4z78fphZUxQYjf?usp=drive_link ) 
+[CLICK HERE TO DOWNLOAD RELYON](https://drive.google.com/drive/folders/1GZJdrvaXulmGhjJr_M4z78fphZUxQYjf?usp=sharing) 
