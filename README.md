@@ -6,6 +6,6 @@ The interface offers 21 preprocessing options that can be executed individually 
 
 The user also has the ability to save .xlsx files with desired data for creating graphs, as well as saving model parameters and selected variables. Relyon is a comprehensive software for the creation and optimization of PLS models.
 
-To download the preprocessing optimizer (Relyon) go to the link below:
+[CLICK HERE TO BE NOTIFIED ABOUT UPDATES](https://forms.gle/96bNaLX6or5DcZpj6)
 
-[CLICK TO DOWNLOAD](https://forms.gle/96bNaLX6or5DcZpj6)
+[CLICK HERE TO DOWNLOAD RELYON](https://forms.gle/96bNaLX6or5DcZpj6](https://drive.google.com/drive/folders/1GZJdrvaXulmGhjJr_M4z78fphZUxQYjf?usp=drive_link ) 
